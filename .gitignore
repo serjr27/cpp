@@ -1,0 +1,7 @@
+.vscode/tasks.json
+*.exe
+*.ilk
+*.obj
+.gitignore
+*.pdb
+.gitignore
